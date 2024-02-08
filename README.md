@@ -43,7 +43,6 @@ Las tecnologías usadas son:
 ![image](https://github.com/macheting/Registro-de-usario-en-MySQL/assets/151371549/a3545894-8c70-4727-938d-69d9ed283c5f)
 ![image](https://github.com/macheting/Registro-de-usario-en-MySQL/assets/151371549/29c36d05-b497-41d3-91ed-3f7f30accdc3)
 ![image](https://github.com/macheting/Registro-de-usario-en-MySQL/assets/151371549/569bf21c-9075-4f40-a450-bd592220886e)
-![image](https://github.com/macheting/Registro-de-usario-en-MySQL/assets/151371549/49518145-44ec-4ee2-bef8-de69ce335121)
 
 ------------
 
